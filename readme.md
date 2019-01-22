@@ -4,10 +4,12 @@
 ## Linux
 
 ### News
-	- [Fedora magazine]( https://fedoramagazine.org/) - general Fedora news
+  
+  - [Fedora magazine](https://fedoramagazine.org/) general Fedora news
 
 ### system softs / helpful scripts	
-	- [calomel.org](https://calomel.org/) - Rsync, youtube downloaders and other open source scripts.
+  
+  - [calomel.org](https://calomel.org/) - Rsync, youtube downloaders and other open source scripts.
 
 ## Infosec
 
